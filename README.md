@@ -1,4 +1,4 @@
-it's my first github --master branch
+it's my first github --dev branch
 hahhahha
 sadasd
 im master
